@@ -22,8 +22,8 @@ The goal was to analyze data and  create a comprehensive dashboard using Excel t
 - Internet Usage: Differentiated between productive and unproductive internet usage to improve productivity.
 
 💡 Recommendation:
-- ✅ Implement targeted productivity improvement programs.
-- ✅ Enhance communication tools and protocols.
-- ✅ Regularly review and adjust KPIs to align with business goals.
-- ✅ Provide training and support to low-performing employees.
-- ✅ Encourage a balanced approach to internet usage to maximize productivity.
+- Implement targeted productivity improvement programs.
+- Enhance communication tools and protocols.
+- Regularly review and adjust KPIs to align with business goals.
+- Provide training and support to low-performing employees.
+- Encourage a balanced approach to internet usage to maximize productivity.
